@@ -1,0 +1,5 @@
+/config/app.php
+/config/client_secret.p12
+/vendor/
+/indexold.php
+/composer.lock

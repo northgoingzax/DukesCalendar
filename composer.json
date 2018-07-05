@@ -1,0 +1,13 @@
+{
+    "name": "northgoingzax/DukesCalendar",
+    "type": "library",
+    "description": "Scans the Dukes Lancaster website for cinema times in a given month and updates a Google Calendar",
+    "keywords": ["Dukes","Lancaster","Calendar"],
+    "homepage": "https://github.com/northgoingzax/DukesCalendar",
+    "autoload": {
+        "psr-4": {"northgoingzax\\": "src/"}
+    },    
+    "require": {
+        "google/apiclient": "1.1.3"
+    }
+}
