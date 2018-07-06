@@ -1,6 +1,11 @@
 # DukesCalendar
 Source for the Dukes Lancaster Google Calendar scraping tool
 
+## About the Calendar
+The calendar scrapes the Dukes' website listing for all cinema activity for the month.
+Because the listing only includes start times, all films are set for 2 hours.
+The location is the link to the Duke's website where you can read more info.
+
 ## Using the calendar
 On a desktop
 1. Open the calendar
