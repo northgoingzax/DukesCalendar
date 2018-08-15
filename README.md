@@ -18,3 +18,6 @@ On mobile
 
 Try your luck with this link
 https://calendar.google.com/calendar/b/1?cid=bWM0MmY1NWZhb2RnbzM1OG4yZGQwYmgyaThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+
+## Short link
+https://goo.gl/FNhbBB
